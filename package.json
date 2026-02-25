@@ -1,0 +1,41 @@
+{
+  "name": "debt-tech-remover-extension",
+  "displayName": "Debt Tech Remover",
+  "description": "SDD Framework & AI Contract Architect — genera tu Contract.md y desarrolla con gobernanza desde VSCode.",
+  "version": "0.1.0",
+  "publisher": "local",
+  "license": "MIT",
+  "icon": "icon.png",
+  "engines": {
+    "vscode": "^1.84.0"
+  },
+  "categories": [
+    "Other"
+  ],
+  "main": "./dist/extension.js",
+  "contributes": {
+    "commands": [
+      {
+        "command": "debtTechRemover.open",
+        "title": "Abrir Debt Tech Remover"
+      },
+      {
+        "command": "debtTechRemover.configureKey",
+        "title": "Debt Tech Remover: Configurar Gemini API Key"
+      },
+      {
+        "command": "debtTechRemover.activateLicense",
+        "title": "Debt Tech Remover: Activar Licencia Pro"
+      }
+    ]
+  },
+  "scripts": {
+    "build": "tsc -p .",
+    "sync": "node ./scripts/sync-media.mjs"
+  },
+  "devDependencies": {
+    "typescript": "^5.6.3",
+    "@types/vscode": "^1.84.0",
+    "@types/node": "^24.10.1"
+  }
+}
