@@ -4,7 +4,7 @@
   "description": "SDD Framework & AI Contract Architect — genera tu Contract.md y desarrolla con gobernanza desde VSCode.",
   "version": "0.1.0",
   "publisher": "local",
-  "license": "MIT",
+  "license": "SEE LICENSE IN LICENSE",
   "icon": "icon.png",
   "engines": {
     "vscode": "^1.84.0"

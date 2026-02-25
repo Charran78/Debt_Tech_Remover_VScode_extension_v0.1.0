@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react&logoColor=white" />
   <br/>
   <img src="https://img.shields.io/badge/Gemini-2.5%20Flash-8E75B2?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/License-Proprietary-red?style=for-the-badge" />
 </div>
 
 <br/>
@@ -91,7 +91,7 @@ Este proyecto nace para resolver el problema de la "deuda técnica generada por 
 
 ## 📄 Licencia
 
-Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
+**Proprietary / All Rights Reserved**. Queda prohibida la copia, distribución o modificación del código fuente sin autorización expresa del autor. Ver `LICENSE` para más información.
 
 ---
 
