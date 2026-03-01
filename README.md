@@ -94,8 +94,15 @@ Este proyecto nace para resolver el problema de la "deuda técnica generada por 
 **Proprietary / All Rights Reserved**. Queda prohibida la copia, distribución o modificación del código fuente sin autorización expresa del autor. Ver `LICENSE` para más información.
 
 ---
+<br />
 
-<a href="https://www.buymeacoffee.com/beyonddigiv"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=beyonddigiv&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+<p align="center">
+  <a href="https://www.buymeacoffee.com/beyonddigiv">
+    <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="256" alt="beyonddigiv" />
+  </a>
+</p>
+
+<br/>
 
 ---
 <div align="center">
