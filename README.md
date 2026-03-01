@@ -95,6 +95,9 @@ Este proyecto nace para resolver el problema de la "deuda técnica generada por 
 
 ---
 
+<a href="https://www.buymeacoffee.com/beyonddigiv"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=beyonddigiv&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff" /></a>
+
+---
 <div align="center">
   <sub>✨ <strong>Debt Tech Remover Extension</strong> – Gobernanza real para una IA Senior. ✨</sub>
 </div>
